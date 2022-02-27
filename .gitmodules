@@ -1,0 +1,3 @@
+[submodule "maven-demo"]
+	path = maven-demo
+	url = https://github.com/tamagni2002/maven-demo.git
